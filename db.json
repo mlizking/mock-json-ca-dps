@@ -1,0 +1,55 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "year": 2019,
+      "month": 12,
+      "ca": "CA01",
+      "issue_count": 3,
+      "expire_count": 1,
+      "dps": 2
+    },
+    {
+      "year": 2019,
+      "month": 12,
+      "ca": "CA02",
+      "issue_count": 166,
+      "expire_count": 45,
+      "dps": 121
+    },
+    {
+      "year": 2019,
+      "month": 12,
+      "ca": "CA05",
+      "issue_count": 184,
+      "expire_count": 20,
+      "dps": 164
+    },
+    {
+      "year": 2020,
+      "month": 1,
+      "ca": "CA01",
+      "issue_count": 1409,
+      "expire_count": 300,
+      "dps": 1109
+    },
+    {
+      "year": 2020,
+      "month": 1,
+      "ca": "CA02",
+      "issue_count": 22,
+      "expire_count": 4,
+      "dps": 18
+    },
+    {
+      "year": 2020,
+      "month": 1,
+      "ca": "CA05",
+      "issue_count": 10,
+      "expire_count": 3,
+      "dps": 7
+    }
+  ],
+  "message": "get ca dps success",
+  "status": true
+}
